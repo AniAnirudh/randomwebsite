@@ -2,8 +2,4 @@ this is a newly added file in repo directly in github
 repo cloned locally using github desktop client (! git shell?)
 editing this file using MS code
 will attempt to save and push these changes up to master in github....using gitdesktop
-<<<<<<< HEAD
 making more changes as previous....
-=======
-editing directly on github site...
->>>>>>> 530e0be86e785f6ffc71f74056ee7069d75c5a50
